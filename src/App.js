@@ -4,6 +4,7 @@ import store from "./lib/store";
 import { Provider } from "react-redux";
 import InboxScreen from "./components/InboxScreen";
 
+// Test
 function App() {
   return (
     <Provider store={store}>
